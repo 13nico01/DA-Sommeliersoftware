@@ -1,4 +1,12 @@
 # DA-Sommeliersoftware
+**Team:**
+Nico Zimmermann
+Julian Holzer
+Samir Hamza
+Luca Agiuari
+
+**Betreuer:**
+Helmut Rahm
 
 ## Description
 - Software für neues Startup (Sommelierkurs). 
