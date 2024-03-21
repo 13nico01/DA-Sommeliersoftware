@@ -1,9 +1,9 @@
 # DA-Sommeliersoftware
 **Team:**
 Nico Zimmermann
-Julian Holzer
-Samir Hamza
-Luca Agiuari
+,Julian Holzer
+,Samir Hamza
+,Luca Agiuari
 
 **Betreuer:**
 Helmut Rahm
