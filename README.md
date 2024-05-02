@@ -1,6 +1,6 @@
 # DA-Sommeliersoftware
 **Team:**
-Nico Zimmermann, Julian Holzer, Samir Hamza, Luca Agiuari
+Nico Zimmermann, Julian Holzi, Samir Hamzi, Luca Agiuari
 
 **Betreuer:**
 Helmut Rahm
@@ -20,8 +20,6 @@ Nach einem Gespräch mit der externen Quelle, haben wir erfahren, dass aufgrund 
 Dadurch haben sich einige Dinge geändert. 
 Aktuell benötigte Software für den Kunden:
 - Landing Page
-- Videoschnitt
-- Interakttives Video auf Website
 - App für Android und IOS
   - "Quiz" für die Kunden
  
