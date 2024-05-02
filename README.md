@@ -1,4 +1,4 @@
-# DA-Sommeliersoftware
+# DA-VinoVenture
 **Team:**
 Nico Zimmermann, Julian Holzi, Samir Hamzi, Luca Agiuari
 
@@ -6,7 +6,7 @@ Nico Zimmermann, Julian Holzi, Samir Hamzi, Luca Agiuari
 Helmut Rahm
 
 ## Description
-- Software für neues Startup (Sommelierkurs). 
+- Software für neues Startup (VinoVenture). 
 - Webapplication: Admin Panel
   - Landing Page
   - App Auswertungen
